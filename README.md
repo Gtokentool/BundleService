@@ -1,4 +1,3 @@
-```markdown
 # `send-fee-bundle.js` README
 
 ## Overview
