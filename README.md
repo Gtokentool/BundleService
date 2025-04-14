@@ -160,4 +160,3 @@ If you encounter any errors or issues:
 ## License
 
 This script is open source and can be used, modified, and distributed freely under the terms of the MIT License.
-```
