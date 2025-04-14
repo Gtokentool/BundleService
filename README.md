@@ -1,5 +1,3 @@
-当然！以下是完整的 `README.md` 文件内容：
-
 ```markdown
 # `send-fee-bundle.js` README
 
