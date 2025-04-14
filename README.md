@@ -161,7 +161,3 @@ If you encounter any errors or issues:
 
 This script is open source and can be used, modified, and distributed freely under the terms of the MIT License.
 ```
-
----
-
-将此内容保存为 `README.md` 文件，并根据你的需要调整配置项。如果需要进一步帮助，请告诉我！
